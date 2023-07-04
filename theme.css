@@ -1,0 +1,90 @@
+/**
+ * @name 123
+ * @author ClearVision Team
+ * @version 6.3.0
+ * @description Highly customizable and beautiful theme for BetterDiscord.
+ * @source https://github.com/ClearVision/ClearVision-v6
+ * @website https://clearvision.github.io
+ * @invite 7pNUC9C
+ * @BDEditor Clear Vision
+*/
+
+@import url('https://clearvision.github.io/ClearVision-v6/main.css');
+
+:root {
+  --main-color: #B91105;
+  --hover-color: #7B0D05;
+  --success-color: #F96B60;
+  --danger-color: #982929;
+  --url-color: var(--main-color);
+  --background-image: url('https://i.pinimg.com/564x/d4/3f/5a/d43f5a674e33f6a1fbe7d9da66fbb21b.jpg');
+  --background-shading: 100%;
+  --background-position: top center;
+  --background-size: cover;
+  --background-repeat: no-repeat;
+  --background-attachment: fixed;
+  --background-brightness: 100%;
+  --background-contrast: 140%;
+  --background-saturation: 163%;
+  --background-grayscale: 0%;
+  --background-invert: 0%;
+  --background-blur: 0px;
+  --background-overlay: rgba(0,0,0,0.6);
+  --user-popout-image: url('https://clearvision.github.io/images/sapphire.jpg');
+  --user-popout-position: top center;
+  --user-popout-size: cover;
+  --user-popout-repeat: no-repeat;
+  --user-popout-attachment: fixed;
+  --user-popout-brightness: 100%;
+  --user-popout-contrast: 100%;
+  --user-popout-saturation: 100%;
+  --user-popout-grayscale: 0%;
+  --user-popout-invert: 0%;
+  --user-popout-blur: 3px;
+  --user-modal-image: url('https://clearvision.github.io/images/sapphire.jpg');
+  --user-modal-position: center right;
+  --user-modal-size: cover;
+  --user-modal-repeat: repeat;
+  --user-modal-attachment: fixed;
+  --user-modal-brightness: 100%;
+  --user-modal-contrast: 100%;
+  --user-modal-saturation: 100%;
+  --user-modal-grayscale: 0%;
+  --user-modal-invert: 0%;
+  --user-modal-blur: 3px;
+  --home-icon: url('https://i.pinimg.com/564x/aa/5c/af/aa5caf9381c3469b025bcf48fc6f6d9c.jpg');
+  --home-position: center;
+  --home-size: 53px;
+  --channel-unread: var(--main-color);
+  --channel-color: rgba(255,255,255,0.3);
+  --muted-color: rgba(255,255,255,0.1);
+  --online-color: #B31408;
+  --idle-color: #FFC107;
+  --dnd-color: #450285;
+  --streaming-color: #000000;
+  --offline-color: #808080;
+  --main-font: gg sans;
+  --code-font: Consolas;
+  --channels-width: 220px;
+  --members-width: 240px;
+  --backdrop-overlay: rgba(0,0,0,0.8);
+  --backdrop-image: var(--background-image);
+  --backdrop-position: var(--background-position);
+  --backdrop-size: var(--background-size);
+  --backdrop-repeat: var(--background-repeat);
+  --backdrop-attachment: var(--background-attachment);
+  --backdrop-brightness: var(--background-brightness);
+  --backdrop-contrast: var(--background-contrast);
+  --backdrop-saturation: var(--background-saturation);
+  --backdrop-invert: var(--background-invert);
+  --backdrop-grayscale: var(--background-grayscale);
+  --backdrop-sepia: var(--background-sepia);
+  --backdrop-blur: var(--background-blur);
+  --bd-blue: var(--main-color);
+  --bd-blue-hover: var(--hover-color);
+  --bd-blue-active: var(--hover-color);
+}
+
+/* Any custom CSS below here */
+
+
